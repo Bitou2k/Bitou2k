@@ -1,4 +1,4 @@
-![Banner](https://github.com/Bitou2k/Bitou2k/blob/main/Github-Profile-Cover.png)
+![Banner](https://raw.githubusercontent.com/Bitou2k/Bitou2k/main/Github-Profile-Cover.jpg)
 
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
